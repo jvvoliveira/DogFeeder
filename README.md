@@ -3,7 +3,7 @@ Projeto para conclusão da disciplina de Eletrônica Básica da Universidade Cat
 
 ---
 
-##Funcionamento
+#Funcionamento#
 
 Foi necessário baixar aplicativo de celular que fizesse conexão com módulo bluetooth (HC-05). Deve-se seguir o protocolo de comunicação: número da refeição, horário e quantidade de comida (essas informações são separadas necessariamente por ";"). Ex.: 1;15:30;7
 
